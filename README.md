@@ -1,6 +1,6 @@
 # Hi there 👋 I'm **Mohamed Kamil**
 
-[![Website](https://img.shields.io/badge/website-portfolio-lightgrey)](https://mohamedkamil-hub.github.io/)  
+[![Website](https://img.shields.io/badge/website-portfolio-lightgrey)](https://mohamedkamil-hub.github.io/Portfolio/)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elkouarti/)  
 [![X (Twitter)](https://img.shields.io/badge/-X-1DA1F2?logo=x&logoColor=white)](https://x.com/milka_elk)  
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:kouartikamil@gmail.com)
