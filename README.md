@@ -30,10 +30,7 @@
 
 ---
 
-## 🌟 Latest Projects
 
-<!-- START: latest-repos -->
-<!-- END: latest-repos -->
 
 ---
 
