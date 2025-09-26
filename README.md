@@ -30,15 +30,10 @@
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 Latest Projects
 
-### [Project One](https://github.com/MohamedKamil-hub/PROJECT_ONE)
-A one-line summary of the project, what problem it solves, and key tech used.
-
-### [Project Two](https://github.com/MohamedKamil-hub/PROJECT_TWO)
-One-line summary plus why someone should check it out.
-
-> Tip: replace these links with your pinned repositories or add screenshots saved in `/assets`.
+<!-- START: latest-repos -->
+<!-- END: latest-repos -->
 
 ---
 
@@ -49,5 +44,4 @@ One-line summary plus why someone should check it out.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedKamil-hub&layout=compact&theme=github_dark" alt="GitHub Top Languages" />
 </p>
 
-Or use this as an alternative community graph:
 
