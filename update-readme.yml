@@ -1,0 +1,38 @@
+name: Update README with Latest Repos
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs every day at midnight
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Get latest repositories and update README
+        uses: octokit/request-action@v2
+        id: get_repos
+        with:
+          route: GET /users/MohamedKamil-hub/repos
+          username: MohamedKamil-hub
+          per_page: 5
+          sort: created
+          direction: desc
+
+      - name: Replace content in README
+        run: |
+          REPOS=$(echo "${{ steps.get_repos.outputs.data }}" | jq -r '.[] | "- [\(.name)](\(.html_url))"')
+          sed -i "/<!-- START: latest-repos -->/,/<!-- END: latest-repos -->/c\<!-- START: latest-repos -->\n$REPOS\n<!-- END: latest-repos -->" README.md
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update latest repositories" || echo "No changes to commit"
+          git push
