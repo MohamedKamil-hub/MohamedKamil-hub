@@ -2,37 +2,34 @@ name: Update README with Latest Repos
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs every day at midnight
-  push:
-    branches:
-      - main
+    - cron: '0 0 * * *' # Runs daily at midnight
+  workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
 
-      - name: Get latest repositories and update README
-        uses: octokit/request-action@v2
-        id: get_repos
-        with:
-          route: GET /users/MohamedKamil-hub/repos
-          username: MohamedKamil-hub
-          per_page: 5
-          sort: created
-          direction: desc
-
-      - name: Replace content in README
+      - name: Get latest repositories
         run: |
-          REPOS=$(echo "${{ steps.get_repos.outputs.data }}" | jq -r '.[] | "- [\(.name)](\(.html_url))"')
-          sed -i "/<!-- START: latest-repos -->/,/<!-- END: latest-repos -->/c\<!-- START: latest-repos -->\n$REPOS\n<!-- END: latest-repos -->" README.md
+          curl -s https://api.github.com/users/MohamedKamil-hub/repos?sort=created&per_page=5 \
+          | grep -E 'html_url|name' \
+          | sed -n 'N;s/\n/ /;s/.*"name": "\(.*\)".*"html_url": "\(.*\)".*/- [\1](\2)/p' \
+          > latest_repos.md
 
-      - name: Commit and push changes
+      - name: Update README
+        run: |
+          sed -i '/<!-- START: latest-repos -->/,/<!-- END: latest-repos -->/c\
+<!-- START: latest-repos -->\
+'"$(cat latest_repos.md)"'\
+<!-- END: latest-repos -->' README.md
+
+      - name: Commit and push
         run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
           git commit -m "Update latest repositories" || echo "No changes to commit"
           git push
+
