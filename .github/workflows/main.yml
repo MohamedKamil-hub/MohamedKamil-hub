@@ -20,10 +20,15 @@ jobs:
 
       - name: Update README
         run: |
-          sed -i '/<!-- START: latest-repos -->/,/<!-- END: latest-repos -->/c\
+          if [ -f README.md ]; then
+            sed -i '/<!-- START: latest-repos -->/,/<!-- END: latest-repos -->/c\
 <!-- START: latest-repos -->\
 '"$(cat latest_repos.md)"'\
 <!-- END: latest-repos -->' README.md
+          else
+            echo "README.md not found"
+            exit 1
+          fi
 
       - name: Commit and push
         run: |
