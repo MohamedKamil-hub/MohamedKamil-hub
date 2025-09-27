@@ -28,6 +28,10 @@
 ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-%23019733.svg?style=flat&logo=vim&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=flat&logo=python&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-%23007ACC.svg?style=flat&logo=ethernet&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
+
 
 
 
