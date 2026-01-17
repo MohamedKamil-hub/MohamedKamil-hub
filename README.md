@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white" height="50">
 </a><br>
 
-<a href="https://x.com/milka_elk">
+<a href="https://x.com/kamilka_hub">
   <img src="https://img.shields.io/badge/-X-1DA1F2?logo=x&logoColor=white" height="50">
 </a><br>
 
