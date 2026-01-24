@@ -19,9 +19,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=mohamedkamil-hub&show_icons=true&theme=dark&hide_border=true" height="180">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedkamil-hub&layout=compact&theme=dark&hide_border=true" height="180">
 
-## 🔥 GitHub Streak
-
-<img src="https://streak-stats.demolab.com?user=mohamedkamil-hub&theme=dark&hide_border=true" height="180">
 
 ## 🧠 Tecnologías y áreas de interés
 
