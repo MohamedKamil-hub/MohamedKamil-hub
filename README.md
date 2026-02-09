@@ -19,127 +19,64 @@
   <img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=for-the-badge" height="40">
 </a>
 
+# Mohamed Kamil El Kouarti
 
-# 👋 Welcome to my GitHub Profile
+**Systems & Networks Technician** | Spain  
+Currently studying at thePower, building stuff that solves problems.
 
----
-
-## 📊 Dynamic GitHub Stats
-
-### GitHub Profile Overview
-[![GitHub Badge](https://img.shields.io/badge/GitHub-MohamedKamil--hub-blue?logo=github&style=flat-square)](https://github.com/MohamedKamil-hub)
-[![Profile Views](https://komarev.com/ghpvc/?username=MohamedKamil-hub&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/MohamedKamil-hub)
-
-### Live Statistics
-
-| Metric | Badge |
-|--------|-------|
-| **GitHub User** | ![GitHub User Badge](https://img.shields.io/badge/User%20ID-210828782-blue?style=flat-square) |
-| **Account Type** | ![Account Type](https://img.shields.io/badge/Type-Public%20User-brightgreen?style=flat-square) |
-| **Site Admin** | ![Admin Status](https://img.shields.io/badge/Admin-No-red?style=flat-square) |
-| **Account Created** | ![Account Age](https://img.shields.io/badge/Active-Since%202024-success?style=flat-square) |
+[Portfolio](https://mohamedkamil-hub.github.io/Portfolio/) • [LinkedIn](https://www.linkedin.com/in/elkouarti/) • [Email](mailto:kouartikamil@gmail.com)
 
 ---
 
-## 🎯 Profile Analytics
+## What I'm about
 
-### Activity Metrics
-```
-📈 Real-Time GitHub Activity
-├── Repositories: [Visit to see all](https://github.com/MohamedKamil-hub?tab=repositories)
-├── Followers: [Check followers](https://github.com/MohamedKamil-hub?tab=followers)
-├── Following: [See following](https://github.com/MohamedKamil-hub?tab=following)
-├── Starred Repos: [View stars](https://github.com/MohamedKamil-hub?tab=stars)
-└── Activity Feed: [See events](https://github.com/MohamedKamil-hub?tab=events)
-```
+I work with Linux systems, networking, and automation. The kind of infrastructure work that keeps things running smoothly so developers can focus on building. 
 
-### GitHub Stats with Graphs
+My approach is straightforward: if it's repetitive, automate it. If it's broken, fix it properly. If it can be optimized, make it better.
 
-#### Profile Stats Card
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedKamil-hub&show_icons=true&theme=dark&hide_border=true)](https://github.com/MohamedKamil-hub)
+## What I work with
 
-#### Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedKamil-hub&layout=compact&theme=dark&hide_border=true)](https://github.com/MohamedKamil-hub)
+**Infrastructure & Systems**
+- Linux (daily driver), Proxmox for virtualization
+- Bash scripting, some Python when needed
+- Active Directory, Office 365 administration
+- Docker for containerization
 
-#### Contribution Graph
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MohamedKamil-hub&theme=dark)](https://github.com/MohamedKamil-hub)
+**Networking & Cloud**
+- Network design and troubleshooting
+- AWS fundamentals (certified)
+- Cisco IOS, DHCP/DNS configuration
 
-#### Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MohamedKamil-hub&theme=dark)](https://github.com/MohamedKamil-hub)
+**Currently exploring**
+- DevOps workflows and CI/CD pipelines
+- Self-hosted alternatives to SaaS platforms
+- Network security and system hardening
 
----
+## Recent work
 
-## 🔗 Quick Links
+**[Static Site Server](https://github.com/MohamedKamil-hub)** – Performance monitoring script for Linux servers. CPU, memory, disk usage, top processes. Built for practical use.
 
-- 🏠 **Main Profile:** https://github.com/MohamedKamil-hub
-- 📦 **Repositories:** https://github.com/MohamedKamil-hub?tab=repositories
-- 👥 **Followers:** https://github.com/MohamedKamil-hub?tab=followers
-- 🔗 **Following:** https://github.com/MohamedKamil-hub?tab=following
-- ⭐ **Starred Repos:** https://github.com/MohamedKamil-hub?tab=stars
-- 📅 **Events:** https://github.com/MohamedKamil-hub?tab=events
-- 📝 **Gists:** https://api.github.com/users/MohamedKamil-hub/gists
+**[Self-hosted Deployment Platform](https://github.com/MohamedKamil-hub)** – Lightweight alternative to Heroku/Vercel. For teams that want control without recurring costs.
 
----
+**[Network Ad Blocker](https://github.com/MohamedKamil-hub)** – Router-level blocking. 
 
-## 💡 About Me
+**[Log Archive Tool](https://github.com/MohamedKamil-hub)** – CLI tool for timestamped log archiving. Simple, effective.
 
-I'm **MohamedKamil-hub**, an active GitHub contributor passionate about:
+More on my [portfolio site](https://mohamedkamil-hub.github.io/Portfolio/).
 
-- 💻 **Software Development** - Building scalable and innovative solutions
-- 🤝 **Open Source** - Contributing to the developer community
-- 📚 **Continuous Learning** - Staying updated with latest technologies
-- 🔧 **Problem Solving** - Tackling challenging technical problems
-- 🚀 **Innovation** - Creating impactful projects
+## Background
+
+I'm finishing my technical degree in Microcomputer Systems and Networks. Did internships at Colegio San Bernardo handling real network maintenance, equipment setup, and troubleshooting. Freelanced on Fiverr doing DevOps and automation work—scripting, server admin, the usual infrastructure tasks.
+
+Got certifications in AWS, Cisco networking, Linux essentials, and AI fundamentals. Not collecting badges, just validating what I'm learning.
+
+## What I'm looking for
+
+Help desk or junior sysadmin roles where I can put this knowledge to use and keep learning. I'm comfortable with hardware, software, networks, and everything in between. Self-taught, resilient, and I don't stop until it works.
+
+If you're working on something interesting in infrastructure, automation, or networking, I'm open to collaborating.
 
 ---
 
-## 📊 Account Information
-
-### Profile Details
-- **Username:** MohamedKamil-hub
-- **User ID:** 210828782
-- **Node ID:** U_kgDODJD97g
-- **Account Type:** Public User
-- **View Type:** Public
-- **Site Admin:** No
-- **Avatar:** ![Profile Picture](https://avatars.githubusercontent.com/u/210828782?v=4&s=100)
-
-### API Endpoints
-```
-User Events: https://api.github.com/users/MohamedKamil-hub/events
-Followers: https://api.github.com/users/MohamedKamil-hub/followers
-Following: https://api.github.com/users/MohamedKamil-hub/following
-Repositories: https://api.github.com/users/MohamedKamil-hub/repos
-Gists: https://api.github.com/users/MohamedKamil-hub/gists
-Organizations: https://api.github.com/users/MohamedKamil-hub/orgs
-Starred: https://api.github.com/users/MohamedKamil-hub/starred
-```
-
----
-
-## 🎓 Technologies & Skills
-
-*Check my repositories to see the technologies I work with!*
-
----
-
-## 📈 Latest Activity
-
-To see my latest activity and contributions:
-1. Visit my [GitHub profile](https://github.com/MohamedKamil-hub)
-2. Check the [Activity tab](https://github.com/MohamedKamil-hub?tab=events)
-3. Explore my [Repositories](https://github.com/MohamedKamil-hub?tab=repositories)
-
----
-
-## 🌐 Connect With Me
-
-- **GitHub:** [@MohamedKamil-hub](https://github.com/MohamedKamil-hub)
-- **Profile:** https://github.com/MohamedKamil-hub
-
-Feel free to:
-- ⭐ Star my repositories if you find them useful
-- 🔀 Fork and contribute to my projects
-- 💬 Open issues or discussions
-- 🤝 Collaborate on exciting projects
-
+**Open to**: Help Desk Technician, Junior SysAdmin, IT Support roles  
+**Location**: Toledo area, Spain (open to remote)
