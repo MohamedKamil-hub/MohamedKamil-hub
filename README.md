@@ -11,20 +11,15 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="40">
 </a>
 
-<a href="mailto:kouartikamil@gmail.com" style="display:inline-block; width:210px; text-align:center;">
+<a href="mailto:kouartimohamedkamil@gmail.com" style="display:inline-block; width:210px; text-align:center;">
   <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="40">
 </a>
 
-<a href="https://x.com/kamilka_hub" style="display:inline-block; width:210px; text-align:center;">
-  <img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=for-the-badge" height="40">
-</a>
 
 # Mohamed Kamil El Kouarti
 
 **Systems & Networks Technician** | Spain  
 Currently studying at thePower
-
-[Portfolio](https://mohamedkamil-hub.github.io/Portfolio/) • [LinkedIn](https://www.linkedin.com/in/elkouarti/) • [Email](mailto:kouartikamil@gmail.com)
 
 
 ## Recent work
