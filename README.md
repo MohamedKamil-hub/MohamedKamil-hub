@@ -1,5 +1,5 @@
 # Hi there 👋 I'm **Mohamed Kamil**
-<a href="https://mohamedkamil-hub.github.io/Portfolio/" style="display:inline-block; width:210px; text-align:center;">
+<a href="https://mohamedkamil-hub.github.io/portfolio/" style="display:inline-block; width:210px; text-align:center;">
   <img src="https://img.shields.io/badge/website-portfolio-lightgrey?style=for-the-badge" height="40">
 </a>
 
